@@ -1,0 +1,151 @@
+[
+    {
+        "nombre": "Gabriela",
+        "obtenidas": 50,
+        "repetidas": 10,
+        "argentina": [
+            "Escudo AFA",
+            "Dibu Martínez",
+            "Marcos Acuña",
+            "Germán Pezzella",
+            "Leandro Paredes",
+            "Giovanni Lo Celso",
+            "Julián Álvarez",
+            "Alejandro Gómez",
+            "Formación"
+        ]
+    },
+    {
+        "nombre": "Pedro",
+        "obtenidas": 300,
+        "repetidas": 150,
+        "argentina": [
+            "Escudo AFA",
+            "Dibu Martínez",
+            "Franco Armani",
+            "Marcos Acuña",
+            "Nahuel Molina",
+            "Nicolás Otamendi",
+            "Germán Pezzella",
+            "Cristian Romero",
+            "Ángel Di María",
+            "Rodrigo De Paul",
+            "Giovanni Lo Celso",
+            "Leandro Paredes",
+            "Guido Rodríguez",
+            "Julián Álvarez",
+            "Alejandro Gómez",
+            "Joaquín Correa",
+            "Nicolás González",
+            "Lautaro Martínez",
+            "Lionel Messi",
+            "Formación"
+        ]
+    },
+    {
+        "nombre": "María",
+        "obtenidas": 60,
+        "repetidas": 15,
+        "argentina": [
+            "Escudo AFA",
+            "Nicolás Otamendi",
+            "Germán Pezzella",
+            "Ángel Di María"
+        ]
+    },
+    {
+        "nombre": "Lucas",
+        "obtenidas": 50,
+        "repetidas": 150,
+        "argentina": [
+            "Escudo AFA",
+            "Dibu Martínez",
+            "Franco Armani",
+            "Marcos Acuña"
+        ]
+    },
+    {
+        "nombre": "Constanza",
+        "obtenidas": 90,
+        "repetidas": 30,
+        "argentina": [
+            "Escudo AFA",
+            "Dibu Martínez",
+            "Franco Armani",
+            "Marcos Acuña"
+        ]
+    },
+    {
+        "nombre": "Carlos",
+        "obtenidas": 110,
+        "repetidas": 60,
+        "argentina": [
+            "Escudo AFA",
+            "Franco Armani",
+            "Lautaro Martínez",
+            "Joaquín Correa",
+            "Giovanni Lo Celso"
+        ]
+    },
+    {
+        "nombre": "Analía",
+        "obtenidas": 20,
+        "repetidas": 0,
+        "argentina": [
+            "Escudo AFA"
+        ]
+    },
+    {
+        "nombre": "Gabriela",
+        "obtenidas": 50,
+        "repetidas": 150,
+        "argentina": [
+            "Escudo AFA",
+            "Dibu Martínez",
+            "Franco Armani"
+        ]
+    },
+    {
+        "nombre": "Juan",
+        "obtenidas": 50,
+        "repetidas": 1,
+        "argentina": [
+            "Escudo AFA",
+            "Marcos Acuña"
+        ]
+    },
+    {
+        "nombre": "María",
+        "obtenidas": 80,
+        "repetidas": 20,
+        "argentina": [
+            "Nicolás Otamendi",
+            "Marcos Acuña",
+            "Giovanni Lo Celso",
+            "Formación"
+        ]
+    },
+    {
+        "nombre": "José",
+        "obtenidas": 40,
+        "repetidas": 10,
+        "argentina": [
+            "Escudo AFA",
+            "Dibu Martínez",
+            "Nicolás Otamendi",
+            "Rodrigo De Paul",
+            "Giovanni Lo Celso",
+            "Formación"
+        ]
+    },
+    {
+        "nombre": "Lito",
+        "obtenidas": 15,
+        "repetidas": 0,
+        "argentina": [
+            "Franco Armani",
+            "Cristian Romero",
+            "Leandro Paredes"
+        ]
+    }
+]

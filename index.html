@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./media/favicon.png" type="image/x-icon">
+    <title>Figuritas</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#" id="inicio">Inicio</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+<main>
+    <section id="call">
+            <div class="lineas">
+                <p id="bienvenidoUsuario">¡Hola!</p>
+                <p>¿Estás juntando las figuritas del mundial?</p>
+                <button id="callButton">¡Hacé click acá!</button>
+            </div>
+    </section>
+    <section id="datosUsuario" class="ocultar">
+        <div class="lineas">
+            <label for="nombreUsuario">Ingresá tu nombre:</label>
+            <input type="text" name="" id="nombreUsuario">
+            <label for="obtenidas">¿Cuántas figuritas únicas conseguiste?</label>
+            <input type="text" name="" id="obtenidas">
+            <label for="obtenidas">¿Cuántas repetidas tenés?</label>
+            <input type="text" name="" id="repetidas">
+        </div>
+    </section>
+    <section id="lista" class="ocultar">
+        <h2>Lista</h2>
+        <div class="lineas">
+            <h3>Argentina</h3>
+            <div class="argentina">
+                        <button id="escudo" class="escudo">
+                            <i class="fa-solid fa-shirt"></i>
+                            Escudo AFA
+                        </button>
+                        <button id="formacion" class="formacion">
+                            <i class="fa-solid fa-shirt"></i>
+                            Formación
+                        </button>
+                        <button id="f1">
+                            <i class="fa-solid fa-shirt"></i>
+                            Dibu Martínez
+                        </button>
+                        <button id="f2">
+                            <i class="fa-solid fa-shirt"></i>
+                            Franco Armani
+                        </button>
+                        <button id="f3">
+                            <i class="fa-solid fa-shirt"></i>
+                            Marcos Acuña
+                        </button>
+                        <button id="f4">
+                            <i class="fa-solid fa-shirt"></i>
+                            Nahuel Molina
+                        </button>
+                        <button id="f5">
+                            <i class="fa-solid fa-shirt"></i>
+                            Nicolás Otamendi
+                        </button>
+                        <button id="f6">
+                            <i class="fa-solid fa-shirt"></i>
+                            Germán Pezzella
+                        </button>
+                        <button id="f7">
+                            <i class="fa-solid fa-shirt"></i>
+                            Cristian Romero
+                        </button>
+                        <button id="f8">
+                            <i class="fa-solid fa-shirt"></i>
+                            Rodrigo De Paul
+                        </button>
+                        <button id="f9">
+                            <i class="fa-solid fa-shirt"></i>
+                            Ángel Di María
+                        </button>
+                        <button id="f10">
+                            <i class="fa-solid fa-shirt"></i>
+                            Giovanni Lo Celso
+                        </button>
+                        <button id="f11">
+                            <i class="fa-solid fa-shirt"></i>
+                            Leandro Paredes
+                        </button>
+                        <button id="f12">
+                            <i class="fa-solid fa-shirt"></i>
+                            Guido Rodríguez
+                        </button>
+                        <button id="f13">
+                            <i class="fa-solid fa-shirt"></i>
+                            Julián Álvarez
+                        </button>
+                        <button id="f14">
+                            <i class="fa-solid fa-shirt"></i>
+                            Joaquín Correa
+                        </button>
+                        <button id="f15">
+                            <i class="fa-solid fa-shirt"></i>
+                            Alejandro Gómez
+                        </button>
+                        <button id="f16">
+                            <i class="fa-solid fa-shirt"></i>
+                            Nicolás González
+                        </button>
+                        <button id="f17">
+                            <i class="fa-solid fa-shirt"></i>
+                            Lautaro Martínez
+                        </button>
+                        <button id="f18">
+                            <i class="fa-solid fa-shirt"></i>
+                            Lionel Messi
+                        </button>
+            </div>
+            <button id="submit">ENVIAR</button>
+        </div>
+    </section>
+    <section id="coleccion" class="ocultar">
+        <h2>Colección</h2>
+        <div class="lineas">
+            <div id="divMensaje"></div>
+        </div>
+    </section>
+</main>
+
+
+    <footer>
+        <p>Sitio sin fines de lucro. El álbum, las figuritas, y sus diseños son propiedad de Panini.</p>
+    </footer>
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./script.js"></script>
+</body>
+</html>
